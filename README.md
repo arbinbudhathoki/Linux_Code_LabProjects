@@ -22,13 +22,13 @@ Git & GitHub
 Command Line Interface (CLI)
 Repository Structure
 Linux_Code_LabProjects/
-│── Lab1/
-│── Lab2/
-│── ShellScripts/
-│── FileManagement/
-│── Permissions/
-│── ProcessManagement/
-└── README.md
+-> Lab1/
+-> Lab2/
+-> ShellScripts/
+-> FileManagement/
+-> Permissions/
+-> ProcessManagement/
+-> README.md
 
 Purpose
 This repository was created to:
