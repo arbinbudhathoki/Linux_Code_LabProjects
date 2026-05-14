@@ -1,10 +1,9 @@
 Linux_Code_LabProjects
-
-This repository contains the Linux lab projects and command-line exercises I completed while working as a Linux Teaching Assistant at Northern Kentucky University.
-
-The purpose of this repository is to showcase practical Linux skills, shell scripting, file management, permissions handling, process management, and other system administration concepts used throughout the labs.
+-> This repository contains the Linux lab projects and command-line exercises I completed while working as a Linux Teaching Assistant at Northern Kentucky University.
+-> The purpose of this repository is to showcase practical Linux skills, shell scripting, file management, permissions handling, process management, and other system administration concepts used throughout the labs.
 
 Topics Covered
+
 Linux terminal commands
 File and directory management
 User and group permissions
@@ -30,8 +29,8 @@ Linux_Code_LabProjects/
 │── Permissions/
 │── ProcessManagement/
 └── README.md
-Purpose
 
+Purpose
 This repository was created to:
 
 Practice and strengthen Linux command-line skills
